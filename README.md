@@ -6,14 +6,14 @@ Step 2 - Now run npm start command to run the application
 # All Endpoints
 
 1.) https://teriapi.herokuapp.com/ (Home Route)<br>
-2.) https://teriapi.herokuapp.com/armoury (Armoury Page)
-3.) https://teriapi.herokuapp.com/aquatics (Aquatics Page)
-4.) https://teriapi.herokuapp.com/cycling (Cycling Page)
-5.) https://teriapi.herokuapp.com/equestrian (Equestrian Page)
-6.) https://teriapi.herokuapp.com/extream (Extream Page)
-7.) https://teriapi.herokuapp.com/golf (Golf Page)
-8.) https://teriapi.herokuapp.com/gymnastics (Gymnastics Page)
-9.) https://teriapi.herokuapp.com/lake_sea (Lake & Sea Page)
+2.) https://teriapi.herokuapp.com/armoury (Armoury Page)<br>
+3.) https://teriapi.herokuapp.com/aquatics (Aquatics Page)<br>
+4.) https://teriapi.herokuapp.com/cycling (Cycling Page)<br>
+5.) https://teriapi.herokuapp.com/equestrian (Equestrian Page)<br>
+6.) https://teriapi.herokuapp.com/extream (Extream Page)<br>
+7.) https://teriapi.herokuapp.com/golf (Golf Page)<br>
+8.) https://teriapi.herokuapp.com/gymnastics (Gymnastics Page)<br>
+9.) https://teriapi.herokuapp.com/lake_sea (Lake & Sea Page)<br>
 
 # About the app
 -> This project contains a Navbar by which the user can navigate easily
