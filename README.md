@@ -5,7 +5,7 @@ Step 2 - Now run npm start command to run the application
 
 # All Endpoints
 
-1.) https://teriapi.herokuapp.com/ (Home Route)
+1.) https://teriapi.herokuapp.com/ (Home Route)<br>
 2.) https://teriapi.herokuapp.com/armoury (Armoury Page)
 3.) https://teriapi.herokuapp.com/aquatics (Aquatics Page)
 4.) https://teriapi.herokuapp.com/cycling (Cycling Page)
