@@ -1,0 +1,35 @@
+#navDiv {
+  width: 95%;
+  height: 150px;
+  /* background-color: black; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  margin: auto;
+  border-bottom: 3px solid black;
+  /* border: 1px solid red; */
+}
+.singleCard {
+  width: 120px;
+  height: 120px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+  /* border: 1px solid black; */
+  border-radius: 50%;
+}
+.singleCard p {
+  color: white;
+  /* margin-top: -10px; */
+}
+
+.singleCard img {
+  width: 70%;
+  margin-top: 15px;
+
+  /* border: 1px solid black; */
+  border-radius: 50%;
+}
