@@ -24,4 +24,4 @@ sub-category.<br>
 in realtime (Api was created using Node.js, Express.js)<br>
 
 # Live Deployed Link
--> 
+-> https://teric-soft-assignment-gamma.vercel.app/
