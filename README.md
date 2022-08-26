@@ -17,11 +17,11 @@ Step 2 - Now run npm start command to run the application
 
 # About the app
 -> This project contains a Navbar by which the user can navigate easily
-to the different pages of the app (React router was used for this functionality)
+to the different pages of the app (React router was used for this functionality)<br>
 -> It has a secondary nav by which the user can navigate to a particular
-sub-category.
+sub-category.<br>
 -> Owm Api was created for this project so that the data can be fetched
-in realtime (Api was created using Node.js, Express.js)
+in realtime (Api was created using Node.js, Express.js)<br>
 
 # Live Deployed Link
 -> 
